@@ -1,0 +1,84 @@
+﻿@model List<ButceTakipWebUI.Dtos.ExpensesDtos.ResultExpensesDto>
+@{
+    ViewData["Title"] = "Gider Tertibi Ekranı";
+    Layout = "~/Views/AdminLayoutController1/Index.cshtml";
+}
+
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/css/StyleSheet.css" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+ 
+</head>
+<body>
+  
+        <section class="menu" id="menu">
+            <h1>GİDER TERTİBİ</h1>
+            <div class="box-container">
+                <div class="box">
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @item.ExpensesType
+                            <a href="/BudgetController1/UpdateBudget/@item.BudgetTypeID"> <i class="fa-solid fa-pen-to-square"></i></a>
+                            <a href="/BudgetController1/DeleteBudget/@item.BudgetTypeID"><i class="fa-solid fa-trash"></i></a>
+                        </td>
+                    </tr>
+                }
+        <div>
+            <input type="text" placeholder="Search">
+            <button>Çıkış</button>
+        </div>
+    </div>
+    <div class="container">
+       
+        <div class="tabs">
+                   
+        </div>
+        <div class="tab-content">
+            <div class="tabs">
+                <a href="#">1. Düzey</a>
+                <a href="#">2. Düzey</a>
+                <a href="#">3. Düzey</a>
+                <a href="#">4. Düzey</a>
+                <a href="#">5. Düzey</a>
+                <a href="#">6. Düzey</a>
+                <a href="#">7. Düzey</a>
+                <a href="#">8. Düzey</a>
+                <a href="#">9. Düzey</a>
+            </div>
+            <div class="search-bar">
+                <input type="text" placeholder="Hammadde alımları">
+                <button>🔍</button>
+            </div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Kod</th>
+                        <th>Ekonomik Ad</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>03.01.10.01</td>
+                        <td>Hammadde alımları</td>
+                    </tr>
+                    <tr>
+                        <td>03.01.20</td>
+                        <td>Hammadde alımları</td>
+                    </tr>
+                </tbody>
+            </table>
+            <button class="add-button">Ekle</button>
+        </div>
+    </div>
+        </div>
+        </div>
+    </section>
+</body>
+</html>

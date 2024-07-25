@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ButceTakipWebUI
+build_property.RootNamespace = ButceTakipWebUI
+build_property.ProjectDir = D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\ButceTakipWebUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\ButceTakipWebUI
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/AddUserController1/CreateAddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkVXNlckNvbnRyb2xsZXIxXENyZWF0ZUFkZFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/AddUserController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkVXNlckNvbnRyb2xsZXIxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/AddUserController1/UpdateAddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkVXNlckNvbnRyb2xsZXIxXFVwZGF0ZUFkZFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/AdminLayoutController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRDb250cm9sbGVyMVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/BudgetController1/CreateBudget.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVkZ2V0Q29udHJvbGxlcjFcQ3JlYXRlQnVkZ2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/BudgetController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVkZ2V0Q29udHJvbGxlcjFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/BudgetController1/UpdateBudget.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVkZ2V0Q29udHJvbGxlcjFcVXBkYXRlQnVkZ2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/ExpensesController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZXNDb250cm9sbGVyMVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/LoginController/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5Db250cm9sbGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/Login/LoginPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW5QYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/RefuseController1/CreateRefuse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmdXNlQ29udHJvbGxlcjFcQ3JlYXRlUmVmdXNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/Shared/Components/_LayoutHeaderComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dEhlYWRlckNvbXBvbmVudFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/Shared/Components/_LayoutNavbarComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dE5hdmJhckNvbXBvbmVudFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/Shared/Components/_LayoutScriptComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dFNjcmlwdENvbXBvbmVudFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/Shared/Components/_LayoutSidebarComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dFNpZGViYXJDb21wb25lbnRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/VATController1/CreateVAT.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVkFUQ29udHJvbGxlcjFcQ3JlYXRlVkFULmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/İndirilenler/butceend/ButceTakipSonnnnnn(2)/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakipSon/ButceTakip-main/ButceTakip/ButceTakipWebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-u0rf5gugx2

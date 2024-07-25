@@ -1,0 +1,287 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    font-family: "Playfair Display", serif;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+:root {
+    --black-color: rgb(32, 32, 32);
+    --border: 0.1rem solid rgba(255, 255, 255, 0.4);
+}
+
+/*base html*/
+html {
+    font-size: 80%;
+    overflow-x: hidden;
+    scroll-padding-top: 9rem;
+    scroll-behavior: smooth;
+    height: 100%;
+}
+
+    html ::-webkit-scrollbar {
+        width: 0.8rem;
+        background-color: white;
+    }
+
+    html ::-webkit-scrollbar-track {
+        background-color: transparent;
+    }
+
+    html ::-webkit-scrollbar-thumb {
+        border-radius: 3rem;
+        background-color: var(--black-color);
+    }
+
+body {
+    background-image: url("3.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+section {
+    padding: 3.5rem 7%;
+}
+
+a {
+    color: var(--black-color);
+    text-decoration: none;
+}
+
+.btn {
+    display: inline-block;
+    padding: 1.5rem 3rem;
+    border-radius: 30rem;
+    font-size: 1.7rem;
+    color: #fff;
+    background-color: #840101;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    .btn:hover, .btn:focus, .btn:active {
+        background-color: #840101;
+        color: #fff;
+        outline: none;
+    }
+
+.search-input {
+    font-size: 1.6rem;
+    color: var(--black-color);
+    padding: 1rem;
+    text-transform: none;
+    border-radius: 3rem;
+}
+
+.menu .box-container {
+    background: rgba(255, 255, 255, 0.3);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+    .menu .box-container .box {
+        padding: 6rem;
+        min-height: 50rem;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+
+.customers tr th {
+    text-align: center;
+    padding: 2rem;
+}
+
+.box-bottom {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+section h1 {
+    color: var(--black-color);
+    font-size: 3rem;
+    padding: 1rem;
+    margin-bottom: 3.5rem;
+    border-bottom: 0.1rem solid #840101;
+}
+
+.customers {
+    margin: 0 auto;
+    background: rgba(255, 255, 255, 0.3);
+    box-shadow: 0 8px 32px 0 rgba(135, 31, 31, 0.37);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    border-radius: 2.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    width: 70%;
+    border-collapse: collapse;
+    overflow: hidden;
+}
+
+    .customers td, .customers th {
+        border-bottom: 1px solid #ddd;
+        padding: 1.5rem;
+        height: 6rem;
+        text-align: left;
+    }
+
+    .customers tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    .customers tr:hover {
+        background-color: #ddd;
+    }
+
+    .customers th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        background-color: #840101;
+        color: white;
+    }
+
+    .customers tbody i {
+        padding: 1rem;
+    }
+
+.menu .box-container .box form {
+    flex: 1 1 30rem;
+    padding: 5rem 2rem;
+    text-align: center;
+    margin: 0 auto;
+    width: 70%;
+}
+
+    .menu .box-container .box form h3 {
+        color: #000000;
+        font-size: 2.5rem;
+    }
+
+    .menu .box-container .box form .inputBox {
+        background: rgba(255, 255, 255, 0.3);
+        box-shadow: 0 8px 32px 0 rgba(135, 31, 31, 0.37);
+        backdrop-filter: blur(3px);
+        -webkit-backdrop-filter: blur(3px);
+        border-radius: 2.5rem;
+        border: 1px solid rgba(255, 255, 255, 0.18);
+        display: flex;
+        color: #fff;
+        align-items: center;
+        margin: 3rem 0 5rem;
+    }
+
+.menu .box-container .box .inputBox i {
+    color: #000000;
+    font-size: 3rem;
+    padding-left: 3rem;
+}
+
+.menu .box-container .box .inputBox input {
+    width: 100%;
+    padding: 3rem;
+    font-size: 1.7rem;
+    color: #000000;
+    text-transform: none;
+    background: none;
+    background-color: transparent;
+}
+
+.box-container .box h3 {
+    color: #000000;
+    font-size: 2rem;
+}
+
+/* Custom styles for icons */
+
+.customers .fa-pen-to-square {
+    color: #007bff;
+    cursor: pointer;
+    font-size: 20px;
+    float: right;
+}
+
+.customers .fa-trash {
+    color: #dc3545;
+    cursor: pointer;
+    font-size: 20px;
+    float: right;
+}
+
+.customers .fa-circle-plus {
+    color: #fff;
+    cursor: pointer;
+    font-size: 25px;
+    float: right;
+}
+
+.menu .box-container .box-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+    .menu .box-container .box-header h1 {
+        color: var(--black-color);
+        font-size: 3rem;
+        padding: 1rem;
+        margin-bottom: 3.5rem;
+        border-bottom: 0.1rem solid #840101;
+    }
+
+.menu .box-container .response-waiting {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    width: 100%;
+}
+
+    .menu .box-container .response-waiting .label {
+        background-color: #840101;
+        color: #fff;
+        padding: 1rem;
+        border-radius: 5px;
+        font-size: 1.5rem;
+    }
+
+    .menu .box-container .response-waiting .user-name {
+        font-size: 1.5rem;
+        color: #000;
+    }
+
+.menu .box-container .reason-section {
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+    .menu .box-container .reason-section label {
+        display: block;
+        margin-bottom: 1rem;
+        font-size: 1.5rem;
+        color: #000;
+    }
+
+    .menu .box-container .reason-section textarea {
+        width: 100%;
+        height: 15rem;
+        padding: 1rem;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 1.5rem;
+        resize: none;
+    }

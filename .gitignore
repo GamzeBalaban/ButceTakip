@@ -1,0 +1,112 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode/*
+
+# Backup & report files from converting an old project file
+# to a newer Visual Studio version. Backup files are not needed,
+# because we have source control.
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+ServiceFabricBackup/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Business Intelligence projects
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+
+# Microsoft Azure Web App publish settings. Sensitive data included.
+# Be sure to include this file in your .gitignore in your user profile.
+# Learn more about this file at https://aka.ms/vswebappsettings
+*.PublishSettings
+
+# Microsoft Azure Web App publish settings. Sensitive data included.
+# Be sure to include this file in your .gitignore in your user profile.
+# Learn more about this file at https://aka.ms/vswebappsettings
+#*.PublishSettings
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Entity Framework Core
+*.edmx.diagram
+*.edmx*
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode/*
+
+# Node.js directories
+node_modules/
+
+# Java files
+*.class
+*.jar
+*.war
+*.ear
+
+# Python files
+*.py[cod]
+*.pyo
+*.pyd
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Mac files
+.DS_Store
+
+# Logs
+*.log

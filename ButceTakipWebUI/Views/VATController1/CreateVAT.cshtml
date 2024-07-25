@@ -1,0 +1,39 @@
+﻿@model ButceTakipWebUI.Dtos.VATDtos.CreateVATDto
+
+@{
+    ViewData["Title"] = "CreateVAT";
+    Layout = "~/Views/AdminLayoutController1/Index.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>KDV Ekle</title>
+    <link rel="stylesheet" href="~/css/StyleSheet.css" />
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+          integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+          crossorigin="anonymous"
+          referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <section class="menu">
+        <h1>KDV EKLEME</h1>
+        <div class="box-container">
+            <div class="box">
+                <form method="post" asp-controller="VATController1" asp-action="CreateVAT">
+                    <h3>KDV Giriniz</h3>
+                    <div class="inputBox">
+                        <i class="fa-solid fa-percent"></i>
+                        <input type="number" placeholder="KDV" asp-for="VATRate" id="VATRate" required>
+                    </div>
+                    <button type="submit" class="btn">Ekle</button>
+                </form>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

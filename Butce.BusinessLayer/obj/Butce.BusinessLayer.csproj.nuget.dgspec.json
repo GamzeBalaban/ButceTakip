@@ -1,0 +1,310 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.BusinessLayer\\Butce.BusinessLayer.csproj": {}
+  },
+  "projects": {
+    "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.BusinessLayer\\Butce.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.BusinessLayer\\Butce.BusinessLayer.csproj",
+        "projectName": "Butce.BusinessLayer",
+        "projectPath": "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.BusinessLayer\\Butce.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Gamze Blbn\\.nuget\\packages\\",
+        "outputPath": "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamze Blbn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.DataAccessLayer\\Butce.DataAccessLayer.csproj": {
+                "projectPath": "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.DataAccessLayer\\Butce.DataAccessLayer.csproj"
+              },
+              "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.DtoLayer\\Butce.DtoLayer.csproj": {
+                "projectPath": "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.DtoLayer\\Butce.DtoLayer.csproj"
+              },
+              "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.EntityLayer\\Butce.EntityLayer.csproj": {
+                "projectPath": "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.EntityLayer\\Butce.EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.DataAccessLayer\\Butce.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.DataAccessLayer\\Butce.DataAccessLayer.csproj",
+        "projectName": "Butce.DataAccessLayer",
+        "projectPath": "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.DataAccessLayer\\Butce.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Gamze Blbn\\.nuget\\packages\\",
+        "outputPath": "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamze Blbn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.EntityLayer\\Butce.EntityLayer.csproj": {
+                "projectPath": "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.EntityLayer\\Butce.EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.DtoLayer\\Butce.DtoLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.DtoLayer\\Butce.DtoLayer.csproj",
+        "projectName": "Butce.DtoLayer",
+        "projectPath": "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.DtoLayer\\Butce.DtoLayer.csproj",
+        "packagesPath": "C:\\Users\\Gamze Blbn\\.nuget\\packages\\",
+        "outputPath": "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.DtoLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamze Blbn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.EntityLayer\\Butce.EntityLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.EntityLayer\\Butce.EntityLayer.csproj",
+        "projectName": "Butce.EntityLayer",
+        "projectPath": "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.EntityLayer\\Butce.EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\Gamze Blbn\\.nuget\\packages\\",
+        "outputPath": "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.EntityLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamze Blbn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.DtoLayer\\Butce.DtoLayer.csproj": {
+                "projectPath": "D:\\İndirilenler\\butceend\\ButceTakipSonnnnnn(2)\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakipSon\\ButceTakip-main\\ButceTakip\\Butce.DtoLayer\\Butce.DtoLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

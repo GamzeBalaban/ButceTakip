@@ -1,0 +1,181 @@
+C:\Users\User\Desktop\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfo.cs
+C:\Users\HP\Desktop\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.AssemblyReference.cache
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfoInputs.cache
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfo.cs
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.deps.json
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.runtimeconfig.json
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.dll
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.pdb
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.dll
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.dll
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.pdb
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.pdb
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.Da.9083ABA3.Up2Date
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.dll
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\refint\Butce.DataAccessLayer.dll
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.pdb
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.genruntimeconfig.cache
+D:\İndirilenler\ButceTakipSon (2)\ButceTakipSon (2)\ButceTakipSon (1)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\ref\Butce.DataAccessLayer.dll
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.deps.json
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.runtimeconfig.json
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.dll
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.pdb
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.dll
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.dll
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.pdb
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.pdb
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.AssemblyReference.cache
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfoInputs.cache
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfo.cs
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.Da.9083ABA3.Up2Date
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.dll
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\refint\Butce.DataAccessLayer.dll
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.pdb
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.genruntimeconfig.cache
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\ref\Butce.DataAccessLayer.dll
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.deps.json
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.runtimeconfig.json
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.dll
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.pdb
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.dll
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.dll
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.pdb
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.pdb
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfo.cs
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.CopyComplete
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.dll
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\refint\Butce.DataAccessLayer.dll
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.pdb
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.genruntimeconfig.cache
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\ref\Butce.DataAccessLayer.dll
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.deps.json
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.runtimeconfig.json
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.dll
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.pdb
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.dll
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.dll
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.pdb
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.pdb
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.CopyComplete
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.dll
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\refint\Butce.DataAccessLayer.dll
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.pdb
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.genruntimeconfig.cache
+C:\Users\User\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\ref\Butce.DataAccessLayer.dll
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.deps.json
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.runtimeconfig.json
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.dll
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.pdb
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.dll
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.dll
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.pdb
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.pdb
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.AssemblyReference.cache
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfoInputs.cache
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfo.cs
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.Da.9083ABA3.Up2Date
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.dll
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\refint\Butce.DataAccessLayer.dll
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.pdb
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.genruntimeconfig.cache
+D:\İndirilenler\masaüstü\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\ref\Butce.DataAccessLayer.dll
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.deps.json
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.runtimeconfig.json
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.dll
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.pdb
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.dll
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.dll
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.pdb
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.pdb
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfo.cs
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.CopyComplete
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.dll
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\refint\Butce.DataAccessLayer.dll
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.pdb
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.genruntimeconfig.cache
+C:\Users\HP\Desktop\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\ref\Butce.DataAccessLayer.dll
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.deps.json
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.runtimeconfig.json
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.dll
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.pdb
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.dll
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.dll
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.pdb
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.pdb
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfo.cs
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.CopyComplete
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.dll
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\refint\Butce.DataAccessLayer.dll
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.pdb
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.genruntimeconfig.cache
+C:\Users\User\Downloads\ButceTakipSon (2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\ref\Butce.DataAccessLayer.dll
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.deps.json
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.runtimeconfig.json
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.dll
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.pdb
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.dll
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.dll
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.pdb
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.pdb
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfo.cs
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.CopyComplete
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.dll
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\refint\Butce.DataAccessLayer.dll
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.pdb
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.genruntimeconfig.cache
+C:\Users\User\Downloads\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\ref\Butce.DataAccessLayer.dll
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.deps.json
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.runtimeconfig.json
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.dll
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DataAccessLayer.pdb
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.dll
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.dll
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.EntityLayer.pdb
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\bin\Debug\net8.0\Butce.DtoLayer.pdb
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.AssemblyReference.cache
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfoInputs.cache
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.AssemblyInfo.cs
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.Da.9083ABA3.Up2Date
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.dll
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\refint\Butce.DataAccessLayer.dll
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.pdb
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\Butce.DataAccessLayer.genruntimeconfig.cache
+D:\İndirilenler\butceend\ButceTakipSonnnnnn(2)\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakipSon\ButceTakip-main\ButceTakip\Butce.DataAccessLayer\obj\Debug\net8.0\ref\Butce.DataAccessLayer.dll

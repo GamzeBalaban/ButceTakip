@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Butce.EntityLayer/1.0.0": {
+        "dependencies": {
+          "Butce.DtoLayer": "1.0.0"
+        },
+        "runtime": {
+          "Butce.EntityLayer.dll": {}
+        }
+      },
+      "Butce.DtoLayer/1.0.0": {
+        "runtime": {
+          "Butce.DtoLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Butce.EntityLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Butce.DtoLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

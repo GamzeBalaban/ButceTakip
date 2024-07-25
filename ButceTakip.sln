@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButceTakipApi", "ButceTakipApi\ButceTakipApi.csproj", "{FAE2EC44-85B4-4017-B5EA-3843CD915779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButceTakipWebUI", "ButceTakipWebUI\ButceTakipWebUI.csproj", "{9057C21A-C6E2-465D-A296-D43D188A7FEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Butce.DataAccessLayer", "Butce.DataAccessLayer\Butce.DataAccessLayer.csproj", "{32F409CE-A204-484C-94D4-0378C0339302}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Butce.EntityLayer", "Butce.EntityLayer\Butce.EntityLayer.csproj", "{93AE324B-FDC9-4C7C-9045-781EDB3DEE65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Butce.BusinessLayer", "Butce.BusinessLayer\Butce.BusinessLayer.csproj", "{253589BF-C139-47AD-BF38-3ADE5C65BD8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Butce.DtoLayer", "Butce.DtoLayer\Butce.DtoLayer.csproj", "{AFCA8734-E06E-44A7-9BD8-CC63988C9F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE2EC44-85B4-4017-B5EA-3843CD915779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE2EC44-85B4-4017-B5EA-3843CD915779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE2EC44-85B4-4017-B5EA-3843CD915779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE2EC44-85B4-4017-B5EA-3843CD915779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9057C21A-C6E2-465D-A296-D43D188A7FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9057C21A-C6E2-465D-A296-D43D188A7FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9057C21A-C6E2-465D-A296-D43D188A7FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9057C21A-C6E2-465D-A296-D43D188A7FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F409CE-A204-484C-94D4-0378C0339302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F409CE-A204-484C-94D4-0378C0339302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F409CE-A204-484C-94D4-0378C0339302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F409CE-A204-484C-94D4-0378C0339302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93AE324B-FDC9-4C7C-9045-781EDB3DEE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93AE324B-FDC9-4C7C-9045-781EDB3DEE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93AE324B-FDC9-4C7C-9045-781EDB3DEE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93AE324B-FDC9-4C7C-9045-781EDB3DEE65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253589BF-C139-47AD-BF38-3ADE5C65BD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253589BF-C139-47AD-BF38-3ADE5C65BD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253589BF-C139-47AD-BF38-3ADE5C65BD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253589BF-C139-47AD-BF38-3ADE5C65BD8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCA8734-E06E-44A7-9BD8-CC63988C9F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCA8734-E06E-44A7-9BD8-CC63988C9F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCA8734-E06E-44A7-9BD8-CC63988C9F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCA8734-E06E-44A7-9BD8-CC63988C9F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BA27936-1C0B-4807-9EB5-2BE1C11BB8CB}
+	EndGlobalSection
+EndGlobal

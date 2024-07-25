@@ -1,0 +1,34 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+@await Component.InvokeAsync("_LayoutHeaderComponent")
+
+<body>
+
+    <!-- ======= Header ======= -->
+    @await Component.InvokeAsync("_LayoutNavbarComponent")
+
+    <!-- ======= Sidebar ======= -->
+    @await Component.InvokeAsync("_LayoutSidebarComponent")
+    <main id="main" class="main">
+
+    
+
+        @RenderBody()
+
+    </main><!-- End #main -->
+    <!-- ======= Footer ======= -->
+   
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+    @await Component.InvokeAsync("_LayoutScriptComponent")
+</body>
+
+</html>
+@RenderBody()
